@@ -1,0 +1,182 @@
+
+
+** U.S. air quality is getting worse. Here are the costs | PBS NewsHour **
+
+* https://www.pbs.org/newshour/nation/u-s-air-quality-is-getting-worse-here-are-the-costs *
+
+Subscribe to Here’s the Deal, our politics newsletter for analysis you won’t find anywhere else.
+Thank you. Please check your inbox to confirm.
+Coronavirus Coverage
+
+
+
+Watch live
+
+
+
+
+
+Essential FAQ
+
+
+
+
+
+U.S. coronavirus map
+
+
+
+
+
+Listen: Special podcast episode
+
+
+This antibody test could offer a clearer picture of how the body responds to COVID-19
+
+
+Nicholas J. Sanders, Econofact
+
+
+                    Nicholas J. Sanders, Econofact
+                
+
+Editor’s note: This analysis is being published in collaboration with EconoFact, a nonpartisan economic publication. Read the original article here.
+For the first time in decades, the air quality in the United States got worse over the last year, according to an Associated Press report. 
+This reversal of air quality trends may be temporary – an unusual number of wildfires in 2017 generated some big negative effects on air pollution, and it is impossible to know how much of the increase may be directly attributed to human activity like transportation, manufacturing, and electricity generation. A just-released working paper suggests that wildfires, economic development, and reduced environmental enforcement all played a role in the reversal, which continued through 2018. 
+But scientists expect climate change will increase the size, frequency, and intensity of wildfires, which means that this is unlikely to be a one-time problem. Moreover, anthropogenic pollution sources, both in the United States and abroad, remain the largest contributors to air pollution on the planet.
+Despite the recent decline in air quality, the United States has made a lot of headway in improving air quality since the initial Clean Air Act, the first drastic regulation of air pollution in the United States. 
+While such a program has visible costs — such as decreased manufacturing employment, sectoral reallocation, and increased production costs — putting a dollar value on the benefits of cleaner air has been difficult. Researchers have turned to “natural experiments”, situations that cause unexpected or random shocks to air quality, to better understand the impact of air pollution.
+Research is providing increasing evidence that exposure to air pollution reduces health at birth; decreases cognitive ability and memory; increases medical visits; and increases premature mortality. As we debate the costs and benefits of environmental regulation and climate action, we must consider the human health and mortality effects of dirty air.
+Here are the facts:
+Controlled, reproducible experiments establishing the link between air quality and health are difficult, if not impossible. Randomly assigning horrible air quality to observe how outcomes change comes with a host of social and ethical issues. Toxicology, epidemiology, and medicine have studied correlations between air pollution and health outcomes for years, though establishing causal links is often complicated by potential confounding factors. 
+Higher income households tend to be healthier and also seek out cleaner air, generating positive correlations between air quality and health. On the other hand, cities tend to be both more polluted and home to higher income residents, and developing countries often experience increases in both life expectancy and pollution as their economies grow, generating confounding negative correlations.
+The temporary closure of a steel mill, for instance, served as an unexpected change in ambient pollution levels and the basis for one of the earlier natural experiments on pollution and health. When a labor strike shut down the local steel plant in Utah Valley in the 1980s, local pollution levels decreased, as did hospital admissions for various health conditions (see here, here and here). 
+Similarly, a broader economic shock, the industrial recession of the early 1980s, had health benefits to counter the economic losses, according to one study. Counties that experienced decreases in industrial production, and thus decreases in industrial pollution, saw reductions in infant mortality as well. The authors estimated that the reductions in particulates caused by the change in industrial production meant 2,500 fewer infants died during the recessionary period of 1980–1982.
+The introduction of electronic toll devices in parts of New Jersey and Pennsylvania, for instance, meant fewer idling cars at toll stations and led to improvement in a variety of birth outcomes such as premature birth and infant birthweight among mothers living close to toll stations. 
+A study on California in the early 2000s found that higher levels of local pollution — specifically particulate matter — caused by variations in weather and traffic patterns, increased local infant mortality. In Stockholm, a traffic congestion tax reduced air pollution downtown, with suggestive reductions in hospital admissions for asthma among children 5 and under. 
+The pollution issues of transportation extend to larger transit, too. Retrofits of diesel school buses in Georgia cut bus pollution, and researchers found this resulted in healthier students that scored better on both physical and mental tests. Flight delays served as another natural experiment: delays in east coast airports mean idling jets at west coast hubs. These jets generate substantial air pollution burning fuel on the tarmac, and the authors showed those living downwind of major airports have higher rates of hospitalization for asthma and heart related emergencies.
+Understanding how air pollution impacts adult health comes with additional challenges – adults have had a lifetime to engage in healthy and unhealthy behavior, which can drive morbidity and mortality. But a growing literature searches for ways to track changes in pollution unrelated to other health factors to isolate the impact of dirty air. One way to do this is to look at the impact of wildfires: pollution from wildfires can spread hundreds of miles, decreasing local air quality in areas far from the fire itself. A study using satellite images from wildfire smoke plumes found exposure to wildfire smoke lead to decreases in wages and labor supply of those near retirement. 
+Similarly, looking at where the wind blows can provide changes in pollution exposure that are unrelated to other factors. Something as simple as local wind patterns can mean elevated levels of ambient pollution, which can raise mortality rates for the elderly with pre-existing health conditions. A California study showed individuals 75 and older living downwind of a major freeway had higher mortality rates than those upwind of the same freeway. And health problems aren’t limited to the elderly – the pollution reductions from the 1990 Clean Air Act Amendments reduced mortality among those 35-64 years of age, a group generally viewed as more resilient to pollution-driven mortality due the overall greater health capital.
+Exploiting an oddity of the Chinese heating grid – homes north of the Huai River are responsible for their own heating, while homes south of the River have their heating fully subsidized – allows researchers to study such effects. As the homes in the south generate heat by burning coal, and are more likely to do so with lower heating costs, this results in much higher pollution levels in the cities just south of the River as compared to the north. Even though cities are similar in most other ways, living in one of these southern cities results in a lifespan that is on average 3 years shorter.
+In the case of the Huai River in China, locals aren’t blind to the life-shortening danger of pollution exposure: people in the southern cities buy more household air purifiers and are willing to pay an average of $33 dollars per year to offset the pollution caused by the policy. 
+People in China are also spending a lot of money on health care to undo the health damages of pollution – meeting current World Health Organization air quality suggestions would lower annual health care spending by $42 billion. A study in the United States found the introduction of a cap-and-trade system for major sources of nitrogen oxides decreased medical spending by $800 million a year. The program, run between 2003 and 2008, cut emissions across the mid-western and eastern United States and lowered ambient ozone levels. The authors found a corresponding decline in expenditure on respiratory medications, along with an estimated decrease of $1.3 billion in mortality costs.
+The drastic air quality improvements resulting from the Clean Air Act Amendments of 1970 meant cohorts exposed to lower levels of pollution in utero had higher wages later in life. Children in utero during periods of lower pollution also have shown higher performance on standardized test scores in high school. A study that looked at dust storms, a random source of elevated particulate pollution, found students taking high-stakes exams exams performed worse when pollution levels were higher, with lasting consequences: those exposed to higher levels of pollution on test days had, on average, lower educational attainment and lower later-life earnings. Higher pollution levels in New York mean bigger mistakes by traders on the stock market. And increased pollution can even impact basic memory and problem solving: data from a nationwide survey in China showed that on days with higher pollution, older respondents answered fewer questions correctly.
+Support for Making Sen$e Provided By:
+
+Left:
+                Tampa Electric Company coal fired electrical power plant, Florida
+    
+By Courtney Vinopal
+By Nsikan Akpan
+By Nsikan Akpan
+
+
+Nicholas J. Sanders, Econofact
+
+
+                    Nicholas J. Sanders, Econofact
+                
+
+
+Support Provided By:
+Learn more
+
+Support for Making Sen$e Provided By:
+Subscribe to Here’s the Deal, our politics newsletter for analysis you won’t find anywhere else.
+Thank you. Please check your inbox to confirm.
+Additional Support Provided By:
+
+Read
+Apr 15
+Famous paintings come to life in these quarantine works of art
+
+
+Read
+Apr 16
+WATCH: White House offers governors a road map for pandemic recovery
+
+
+Watch
+Apr 16
+Can pandemic restrictions be lifted, as U.S. COVID-19 deaths continue to rise?
+
+
+Watch
+Apr 16
+Debate resurfaces over origins of novel coronavirus
+
+
+Watch
+Apr 16
+Why congressional relief for small businesses ran out so fast
+
+
+
+Arts
+Apr 16
+
+By Lindsey Bahr, Associated Press
+
+Nation
+Apr 16
+
+By Arnie Stapleton, Associated Press
+
+Nation
+Apr 16
+
+By Ellen Knickmeyer, Associated Press
+
+World
+Apr 16
+
+By Associated Press
+
+Nation
+Apr 16
+
+By Yamiche Alcindor and Associated Press
+
+Nation
+Apr 16
+
+By Kathryn McKinley, The Conversation
+
+
+Arts
+Apr 16
+
+By Mark Kennedy, Associated Press
+
+Health
+Apr 16
+
+By Laura Santhanam
+
+Nation
+Apr 16
+
+By Associated Press
+
+World
+Apr 16
+
+By Mariam Fam, Associated Press
+
+Nation
+Apr 16
+
+By David Eggert, Associated Press
+
+Health
+Apr 16
+
+By Dr. Howard Markel
+© 1996 - 2020 NewsHour Productions LLC. All Rights Reserved.
+Sections
+About
+Stay Connected
+Subscribe to ‘Here's the Deal,’ our politics newsletter
+Thank you. Please check your inbox to confirm.
+Learn more about Friends of the NewsHour.
+Support for NewsHour Provided By

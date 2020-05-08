@@ -1,0 +1,347 @@
+
+
+** Climate Change, Machine Learning and Whale Songs : NPR **
+
+* https://www.npr.org/transcripts/809336135 *
+
+ALIX SPIEGEL, HOST: 
+The human animal averages 60 to 100 heartbeats a minute. To me, that's like the Goldilocks heartbeat - not too fast, not too slow, just right - you know, as heartbeats go.
+(SOUNDBITE OF HUMAN HEART BEATING)
+SPIEGEL: So steady and reassuring.
+(SOUNDBITE OF HUMAN HEART BEATING)
+SPIEGEL: But then there's the black-capped chickadee, which beats 480 times a minute - a tempo so fast just listening to it makes me feel nervous.
+(SOUNDBITE OF BIRD HEART BEATING)
+SPIEGEL: I don't mean to be judgey (ph), but I feel like it would suck to have the heartbeat of a Black-capped chickadee, like drinking a truck full of 5-Hour Energy drinks every single day of your life.
+(SOUNDBITE OF BIRD HEART BEATING)
+SPIEGEL: Someone told me recently that the tempo of most animal heartbeats is related to size - how big an animal is, how small. The bigger the scale of the animal, the slower the tempo of its heart, like the elephant, which clocks in at a chill 30 heartbeats a minute.
+(SOUNDBITE OF ELEPHANT HEART BEATING)
+SPIEGEL: Most of the time, we don't think a lot about tempo - how fast or slow something goes - or scale - how big or small something is - so we're mostly unaware of how tempo and scale affect things. But recently, I've been talking to this unusual group of people who've made me think about those two things a lot. And I've come to understand how important scale and tempo are in determining what happens in the world, how profoundly they, right now, are influencing my life and your life and the lives of everyone we love.
+So that's what we want to talk about today - tempo and scale and what they have to tell us about the world that's coming.
+(SOUNDBITE OF MUSIC)
+HANNA ROSIN, HOST: 
+This is INVISIBILIA. I'm Hanna Rosin.
+SPIEGEL: And I'm Alix Spiegel.
+ROSIN: Welcome to our new season, Seven Hail Marys, stories about people who come up with improbable work arounds to desperate problems. We look at disinformation, race, politics.
+SPIEGEL: And like so many podcasts before us, we give you important information about what it might have been like to sit in the hull of a Greek sailing ship during the time of Homer.
+(SOUNDBITE OF MUSIC)
+ROSIN: So Alix is going to be telling the story today. It's about one of the biggest problems humankind has ever faced and a big idea being proposed to help deal with it.
+SPIEGEL: It's so hard to know where to start this story. Do you start with the guy who stumbled across the secret military recordings or the man who grew up playing in toxic sludge in New Jersey? Or maybe you start with a wildly successful technologist, maybe the one who estimates that his innovation wastes the equivalent of 200,000 lifetimes a day.
+I don't know. I guess the only thing you really need to know at this point is that this is a story about four men who've joined together to pursue what will likely first strike you as a completely preposterous idea. Is it, in fact, preposterous? Plenty say yes; plenty say no. What's clear is that they've committed themselves to this somewhat bizarre undertaking because they sincerely hope that it will wake you up in time for you to take in the massive train moving steadily down the tracks in your direction. Now, I don't know if it will wake you up, if this thing they're planning will work as a catalyst for massive change like they hope, but that is clearly their goal.
+Anyway, I figured out who I'm going to start with. I'm going with a guy who grew up next to a river of waste in New Jersey 'cause he helped organize this whole thing. His name is David Gruber.
+DAVID GRUBER: I grew up in an industrial area of New Jersey. It's right on the banks of the Passaic River, which is one of the most polluted rivers in the U.S. It was actually a Superfund site - super degraded environment. We had this perfume factory in our backyard. And it (ph) would wake up and it would just stink from cheap perfume.
+SPIEGEL: The river behind David Gruber's home was an environmental contamination zone. So in his neighborhood, the words cancer cluster were familiar even to young kids like him. But to David, that didn't matter. He loved it. The factories were his stickball court, the Superfund site his playground.
+GRUBER: I would still swim in this river - in the Passaic River. That was my first experience with nature. And to me, it was amazing. Right? I would - there was little fish in it. There was little crustaceans. There was - when I would come out of it, all these little crawly things would be on my shirt.
+SPIEGEL: Little things and their close cousins even tinier things were David's obsession. He could spend hours watching tiny beings squirm out their lives in the mud. But for some unfathomable reason, no one else seemed to get the appeal. His friends liked human-scale stuff - girls and beers and television shows. And even the few other nature lovers he encountered weren't down for the very small. This was the early '80s, and the world was going crazy for whales - everyone falling all over themselves to save these magnificent creatures. But whales left David cold.
+GRUBER: Honestly, I almost veered away from whales because they're the charismatic megafauna. And you know, I was into - I wanted - I was into the weird animals - you know, the animals that nobody knew about. They're more obscure. It's almost like someone who likes weird bands. The whale community was like pop culture, and I was into the underground life scene.
+SPIEGEL: Sadly, the world had so little interest in the microscopic beings David loved that most of the time, it didn't even bother to notice them and so, in his view, had no idea of their incredible power, beauty and scale.
+So David set out to rectify this problem. In 2007, he got a Ph.D. in marine microbiology and immediately started publishing papers cataloging the many virtues of the tiny beings that surround us. But no matter how many virtues he catalogued, no one seemed that impressed.
+GRUBER: Microbiologists, like, we feel these animals are so important. We love them so deeply, but we can't seem to get anyone except other microbiologists interested in them.
+SPIEGEL: Why, do you think?
+GRUBER: It's because we can't relate to them, you know? How do you fall in love with pond scum?
+SPIEGEL: To bring them to life for the rest of us, David even co-wrote a book with a protein as his main character. Unfortunately, David jokes, it only sold like 13 copies - not exactly a blockbuster.
+It is hard when your main character is a protein.
+GRUBER: Yeah, it's incredibly hard.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Worse, in the course of studying all these incredibly small things, David became aware of a very big problem. You see, much of his research involved organisms that exist in and around coral reefs. And it was impossible to ignore what was happening there.
+GRUBER: It's not like, oh, they're slowly getting worse. Like, I would go back to places I'd been a year or two before and they would be totally changed - just dead. It's just dead - 5% of the fish on the reef.
+SPIEGEL: It was obvious to David that climate change was moving much faster than most scientists had anticipated. But it was also obvious to him that communicating that to the public was near to impossible. I mean, you could tell people stuff like the coral reefs were faltering, but it was hard to understand what that actually meant if you didn't have a whole bunch of very complicated context.
+GRUBER: It's about understanding the timescale because if you put this into perspective of billions of years and the evolution of these systems and how they've changed and then you think of the compressed nature of 10, 15 years, that's where it gets really scary. Like, we are incredibly threatened, and we don't really even know it yet.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: In a way, David was kind of like that little boy character in "The Sixth Sense." He saw plainly a ghostly threat hovering in the world, but most people couldn't see it, in this case, because the problem didn't happen at the right scale and tempo for them - a scale and tempo that naturally activates human response.
+When a problem is fast enough and close enough - a car crash, a punch in the face - you respond immediately. That's just how you're wired. But when it's too slow or far away, like climate change, it feels so abstract, it's hard to motivate. There are, after all, so many other more pressing concerns. So no matter how much David waved his arms to get attention, no one seemed appropriately panicked. And David began to struggle with an overwhelming sense of hopelessness.
+GRUBER: I can't, with an honest face, keep going out and swimming and studying and taking measurements and showing that the corals are declining every year. I can't keep doing that and feeling like it's not having an impact. It's just heartbreaking.
+SPIEGEL: David began to think seriously about walking away. He thought he would drop out, move to Hawaii, open a surf shop and focus on happiness.
+GRUBER: There's a great analogy among mammals, at least - we have a finite number of times in our lifetime that our heart is going to beat. And how do we want to spend those beats? You know, do I want to spend these beats, like, fighting a battle that I'm inevitably going to lose? Or do I want to spend those beats, you know, sitting in the sanctuary of nature that still exists, you know, go - buying a plot of land somewhere and just being with it?
+(SOUNDBITE OF MUSIC)
+SPIEGEL: If he was going to stay and fight, David decided he needed a totally new approach - something radical that could break through the tempo-scale barrier and really wake people up.
+(SOUNDBITE OF KNOCKING)
+SPIEGEL: But before I tell you about that - and I promise I will tell you about that - I need to explain the story of Roger Payne, one of the people that David eventually partnered with.
+ROGER PAYNE: Hello.
+SPIEGEL: Hi. Can we come in?
+PAYNE: Come in.
+SPIEGEL: Hi.
+PAYNE: Enter, enter.
+SPIEGEL: Roger is a scientist who now lives in the backwoods of Vermont. And a long time ago, Roger encountered a problem very similar to the one David struggled with - the problem of people not seeing a tragedy in the natural world that was perfectly plain to him. And through sheer bravado and grit, Roger concocted a deeply unconventional but weirdly successful response. It all began one day in 1966, when Roger was in a lab at Tufts University and decided to turn on the news.
+PAYNE: Listening to the radio and I heard an announcement that there was a whale that had come ashore.
+SPIEGEL: Roger was excited. He'd never seen a whale in the flesh before. At the time, he was studying moths.
+PAYNE: And I thought - ooh, I want to see it. But I had other stuff to do. And by the time I got there, it was dark and everybody who had been on the beach had left. And it was raining. But I found the whale, and it turned out to be a dolphin - which is a form of whale. And somebody had cut the tail off this whale. Somebody else had carved their initials in its flank. And someone else had stuffed a cigar butt in its blowhole. And I stood looking at this beautiful creature. And at one point, my flashlight went out. But it was still gently, vaguely backlit by a kind of glow of the sky, and I could see its silhouette - beautiful curves of this creature. And it occurred to me that, you know, something - there's got to be something different.
+SPIEGEL: Roger knew that many species of whales were on the verge of being hunted to extinction, just barely holding on. And from Roger's perspective, the problem was clear - people couldn't see whales properly.
+See, at this moment in history - 1966 - whales were not yet the international sensation of a megafauna microbiologist David Gruber found so irritating. Whales appeared as soap, oil or a tedious assignment in your 10th-grade English class but otherwise didn't show up that much in the average human life because whales are enormous animals that move through their lives at a completely different tempo over vast and far-flung oceans. So of course, people couldn't really see what they were.
+PAYNE: It was clear to me that whoever had stuffed the cigar butt in the blowhole, they were entertaining each other. They didn't even see the animal as far as I could tell. I mean, it's that kind of complete just inattention. And I made the decision at that moment to study whales and try to find out things about them would capture the fancy of humanity.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: After that, Roger and his collaborator and wife at the time, Katy Payne, started taking trips south, searching for a good spot to observe whales. And during one trip to Bermuda, Roger encountered a man who worked for the Navy, named Frank Watlington, in the engine room of a ship. As the boat's diesel generator roared in the background, Frank screamed out that he had this really interesting recording he'd made while working for the military. Apparently, his job was to eavesdrop on the Soviets using a powerful underwater microphone.
+PAYNE: Frank took a tape out of his pocket. He threaded it across the heads of his recorder. He had some headphones. He put them on my head. And then, in order to be heard over the roaring of this generator, he said, I think these are whales - very loudly (laughter).
+(SOUNDBITE OF WHALES VOCALIZING)
+PAYNE: I started listening to this sound and, my God, it was the most extraordinary, powerful sound I'd heard ever. And I remember my mind was racing as I listened to this. And I thought - this - this is the way. If only you can get these sounds into the ears and the brains of the world, that will steal the world's heart. That's what I thought.
+(SOUNDBITE OF WHALES VOCALIZING)
+SPIEGEL: Roger carried a copy of the recording and began an intense daily routine of listening. Over and over, he played the recording of the humpback whales singing.
+PAYNE: In fact, I rigged up my primitive alarm clock so it would turn it on and wake me up in the morning. And I would lie during the first hours of consciousness with this thing sort of filtering through me. And because of that kind of exposure, I finally realized that it wasn't just some complex, you know, rigmarole of sounds - that it was, in fact, repeating itself, my God.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Turned out, whale song was structured in a way that was similar to human music. There was the statement of a theme, and then the theme developed. And like humans, the whales seemed very particular about their musical phrasing.
+PAYNE: I don't sing (singing) glory, glory, hallelu - (inhaling) - yah, glore (ph)...
+I tuck my breath in in order to not interrupt the performance of that singing.
+SPIEGEL: Roger fell more and more in love with this music - so in love, he says he essentially dropped out of his official job for about two years and devoted himself to assembling the most emotionally powerful collection of whale song he could possibly scrape together.
+PAYNE: And once I had enough recordings that I felt had enough emotional impact - and that's hard to do, by the way - then I thought, oh, I want to make a record.
+SPIEGEL: Unfortunately, Roger had no idea how to make a record. He did, however, have a friend who worked at a book publishing house. They'd never pressed a record before, but Roger convinced him and then started literally cold-calling radio stations to see if they'd consider playing it on-air.
+Just walk me through that phone call. It's like, hi, my name is Roger Payne, and I'm calling because I have a record of whale songs. Like, and the - to which they respond...
+PAYNE: (Laughter) You have to get there faster. You have to say - whale songs, is that anything that might interest you?
+SPIEGEL: Sometimes they hung up; sometimes he got lucky. But Roger wouldn't stop. He'd show up at concerts, talk his way backstage and then ask stars like Mary Hopkin, a Welsh singer famous for the hit "Those Were The Days," to listen in between sets.
+PAYNE: Her manager was, you know, mumbling things to her every few minutes - we got to go; come on; yes, yes, yes - you know. And she listened for the entire period between sets. And when she was done, she didn't remove her headphones. She wiped them slowly off her head while looking as if she was coming out of a trance and saying, that is the most beautiful sound I've ever heard in my life. I wish I could sound like a whale.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: It wasn't just Mary Hopkin. Judy Collins listened and decided to do her own song.
+(SOUNDBITE OF SONG, "FAREWELL TO TARWATHIE")
+JUDY COLLINS: (Singing) Farewell to Tarwathie...
+SPIEGEL: Carl Sagan chose to include whale song on one of the records he launched with the Voyager spacecraft in 1977.
+(SOUNDBITE OF SONG, "FAREWELL TO TARWATHIE")
+COLLINS: (Singing) Whale song...
+SPIEGEL: Roger cold-called his way onto "Johnny Carson."
+(SOUNDBITE OF PAUL ANKA'S "JOHNNY'S THEME")
+SPIEGEL: And perhaps most impressive of all - at least to me, given my childhood - whale song became a major plot point in the fourth "Star Trek" movie, "The Voyage Home."
+(SOUNDBITE OF FILM, "STAR TREK IV: THE VOYAGE HOME")
+WILLIAM SHATNER: (As Kirk) Spock.
+LEONARD NIMOY: (As Spock) As suspected, the probe's transmissions are the songs sung by whales.
+SHATNER: (As Kirk) Whales.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Now, decades of whale research hasn't been able to determine precisely what, if anything, whales are saying with their songs. But still, people were mesmerized - why? Roger thinks it's because in the voice of the whale, they heard something they recognized - themselves. Humpback whale song exists at a tempo and scale that humans can relate to. It sounds almost human.
+You can listen, as Mary Hopkin did, and say to yourself, that is what I do, only better. In fact, Roger believes that what people hear in whale song is a kind of distilled version of the most powerful part of human communication - emotion, which is why they're so taken with it.
+PAYNE: There are lots of people whose reaction to hearing whales sing is to weep.
+(SOUNDBITE OF BLUE DOT SESSIONS' "LINA MY QUEEN")
+SPIEGEL: And here's the point. Once Roger helped make whales and their culture more visible to humans, people did respond. They started crying out more forcefully for the whale to be protected and the Save the Whales movement gained momentum.
+(SOUNDBITE OF MONTAGE)
+UNIDENTIFIED PERSON #1: The song of the humpback whale has become an anthem of sorts.
+UNIDENTIFIED CHILD: Mr. Chairman, I'm here today to represent the children of the United States.
+SPIEGEL: "Songs Of The Humpback Whale" was played for congressional committees, at U.N. conferences...
+(SOUNDBITE OF ARCHIVED RECORDING)
+UNIDENTIFIED CHILD: A lot of my friends and I are worried that when we grow up and have children of our own, there won't be any more sea animals to see.
+SPIEGEL: ...Until ultimately, it helped public opinion shift enough that the International Whaling Commission felt pressured to rewrite its rules. In 1982, the IWC decided to implement a moratorium on commercial whale hunting. And though a few nations objected to the ban, once it passed, some important whale populations around the world did begin to bounce back.
+(SOUNDBITE OF ARCHIVED NPR BROADCAST)
+SUSAN STAMBERG: A big step towards saving the whale was taken today in London.
+(SOUNDBITE OF ARCHIVED RECORDING)
+UNIDENTIFIED REPORTER #1: And it's being called a victory for conservationists.
+SPIEGEL: Roger had used an unlikely method to address the same problem David Gruber had - he'd seen the natural world threatened, and he'd used the voice of the animal itself to make people see things in a new way. The only problem was that eventually people got numb to the idea of whale song. It was no longer strange and amazing. It was assumed. "Songs Of The Humpback" whale became part of our cultural wallpaper - a funny, somewhat cheap thing - a plot point in a "Star Trek" movie.
+PAYNE: People now don't - they don't know it. They haven't heard it, most of them. It's rare to find somebody who's heard it. Used to be - well, for a while, it was rare to find somebody who hadn't if they were young. But now, nope, not anymore.
+(SOUNDBITE OF SONG, "FAREWELL TO TARWATHIE")
+COLLINS: (Singing) In hunting the whale.
+SPIEGEL: But even though the power of whale song had faded, the need for it remained. As Roger watched climate change accelerate, threatening not just whales but thousands and thousands of other species, he, like David Gruber, felt a growing despair.
+The question was, could there be a contemporary version of "Songs Of The Humpback Whale"? maybe something so shocking it was able to cut through our inability to see and relate to the natural world in an even bigger way. That was the question. Could someone find a new version? And what in the world would that be?
+(SOUNDBITE OF MUSIC)
+SPIEGEL: NPR's INVISIBILIA will return in a minute.
+(SOUNDBITE OF MUSIC)
+ROSIN: This is INVISIBILIA from NPR. I'm Hanna Rosin.
+Alix now continues her story of four people who've banded together to pursue a project they hope will change the world. She now introduces us to the last two members of the group. They're technologists so expert at using computers to manipulate time and space that they actually helped determine the tempo and scale of the world a lot of us live in now. They're friends, and their names are Britt Selvitelle and Aza Raskin.
+BRITT SELVITELLE: So this was the Twitter building.
+SPIEGEL: Oh, wow, this was the Twitter building.
+On a small side street in San Francisco, there's a squat, unimpressive building made of painted gray cement. It's the home of the very first Twitter office, and it's where Britt and Aza met back in the days when Twitter was, like, eight people working on this thing that no one had ever heard of.
+SELVITELLE: In this era, there was a page on the front of Twitter that you could click on that was all the tweets. And it scrolled in real time, and you could watch as they came in - one tweet, two tweets.
+SPIEGEL: It was Britt, not Aza, who worked at Twitter. He was part of the founding team. And though it wasn't at all obvious that the tempo of tweets populating Twitter's homepage would increase to the point where this thing they were trying would actually succeed, the handful of people working there still behaved as if they were building God's own sanctum.
+SELVITELLE: It was a very serious, surprisingly somber space. And that's why when I saw Aza, it lit me up.
+SPIEGEL: Aza was the opposite of somber. Aza doesn't walk - he bounces. At 19, Aza helped write a physics textbook. At 21, he founded the first of three extremely successful technology companies. But he's probably best known for something he did in 2006 at age 22. While sitting in a cafe, he came up with an ingenious idea to help us all move faster through the online world. He invented infinite scroll.
+See, at the time, all webpages functioned like real world pages. They had a top and a bottom, and you'd click at the bottom to get a new page to load. But that afternoon in the cafe, Aza decided that eliminating this lag time would be of benefit to society.
+AZA RASKIN: Fewer clicks, less trains of thought lost, more better information found - more faster, more better.
+SPIEGEL: Problem was, infinite scroll was the technological equivalent of removing clocks and windows from a casino. It removed the signals that helped people stop - made them forget time. Seven years later, in a small hotel room in Helsinki, Aza sat down with a pen and some paper and calculated that, conservatively, this one invention was responsible for wasting more than 200,000 lifetimes a day.
+But that was not how it felt at the time. Back then, Aza believed - as Britt believed - that technology would change the world for the better by getting rid of gatekeepers, connecting people directly and making everything faster and more efficient. And it was astonishing, both to Britt and to Aza, the change that they could engineer. The first thing Britt worked on at Twitter was creating what is now known as the like button. And then, of course, there was the retweet.
+SELVITELLE: Which didn't exist - right? - like, that was a thing that we had to create that allowed somebody else to spread an idea out into the open just through the press of a button. A tiny change to a couple of lines of code and a piece of software can impact the entire world at scale. Like, these were the waters that we were swimming in at the time.
+SPIEGEL: And for a while, it looked like it was all working out great. Small tweaks to lines of code seemed capable of toppling dictatorships in the Middle East...
+(SOUNDBITE OF ARCHIVED RECORDING)
+UNIDENTIFIED PROTESTERS: (Chanting, unintelligible).
+SELVITELLE: Wow, wow.
+SPIEGEL: ...Connecting activists at home.
+(SOUNDBITE OF ARCHIVED RECORDING)
+UNIDENTIFIED PROTESTERS: (Chanting) Black lives matter.
+SELVITELLE: This is unbelievable.
+(SOUNDBITE OF ARCHIVED RECORDING)
+UNIDENTIFIED PROTESTERS: (Chanting) Black lives matter.
+(SOUNDBITE OF ARCHIVED RECORDING)
+UNIDENTIFIED PROTESTERS: (Chanting, unintelligible).
+(SOUNDBITE OF MUSIC)
+SPIEGEL: But as time wore on, it became increasingly clear that the shift in social dynamics they'd helped engineer had consequences they'd never anticipated.
+(SOUNDBITE OF MONTAGE)
+PRESIDENT DONALD TRUMP: Knock the crap out of them, would you? Seriously...
+UNIDENTIFIED REPORTER #2: State of emergency in Charlottesville today as white nationalists clash...
+UNIDENTIFIED REPORTER #3: One person is dead.
+TRUMP: You know what Sharia is?
+UNIDENTIFIED PROTESTERS: (Chanting) Send her back.
+SPIEGEL: Britt started waking up in the morning with a strange feeling in his body.
+SELVITELLE: A tightness in the chest.
+SPIEGEL: Aza felt a similar unease.
+RASKIN: I think I helped work on a set of tools that is creating this outcome.
+SPIEGEL: Britt quit Twitter. Aza went through what he calls his long dark night of the soul. In part, they felt distressed about the future because their dream of a faster, more connected world had produced some alarming outcomes. But also, like David and Roger, they felt increasingly anxious about the natural world.
+RASKIN: We're all feeling the first flame licks of global climate change. And the question is, what can we do about it?
+SPIEGEL: It was during his long dark night period that Aza started reading the climate change research - study after study - and they were frightening - surveys estimating that 200 species of plant, insect, mammal and bird became extinct every 24 hours. That's more than a thousand times the normal extinction rate, according to the World Wildlife Fund. Then there was the research demonstrating that in part because of climate change, Germany had lost three-quarters of its flying insects since 1989. The insects were just gone.
+RASKIN: What those papers really did for me was it said, hey, things are going to change. The world in 10 years is going to be very different than now. It's OK to start grieving for the world we're about to lose because that makes space for seeing clearly so that we can start doing something about it.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Then one day, about three years ago, Aza and Britt were hanging at Britt's house, and they stumbled across what they thought that something could be. Aza had been talking to Britt about this story that he'd heard on the news a while back - on NPR, actually. It was about animal communication, specifically this type of monkey that made all kinds of very distinct sounds. So this researcher was painstakingly cataloguing them because, in her opinion, the sounds seemed a lot like human speech.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: And that's when Aza had this kind of crazy thought.
+RASKIN: Shouldn't we be able to, like, use machine learning to decode what they're saying?
+SPIEGEL: Machine learning - basically, algorithms that teach themselves to perform a task or understand a thing by scouring reams of data and identifying patterns in that massive wash of information. Over the years, machines have taught themselves all kinds of amazing things using these methods. But in 2017, a truly remarkable thing happened in the space of machine learning - truly remarkable.
+It all started when some clever computer scientists created a program which took all the words in the English language and had the computer use them to create this image.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Picture in your head a three-dimensional cloud of tiny dots hovering in space. Each of the hovering dots represents a word in the English language. Aza showed me the image on his computer. The dots looked like a collection of stars.
+RASKIN: To me, this looks like a galaxy. It looks like stars. And it's - there are some areas that have dense sets of clouds of words and other areas that don't. It looks like a galaxy.
+SPIEGEL: The important thing to know is that each of the tiny dot-stars hovering in space, they're not just randomly placed.
+RASKIN: Where the stars are in this galaxy depends on how the concepts relate to each other.
+SPIEGEL: Let's give you an example.
+RASKIN: There's a point in this cloud which is the word man, and there's a point in this cloud which is the word king.
+SPIEGEL: Of course, since this is the whole English language, there is also a point in the cloud representing woman and a point in the cloud representing queen. And what you see when you look more closely is that the placement of the man point relative to the king point is the exact same as the placement of the woman point relative to the queen point.
+RASKIN: The distance and direction from man to king is the same as the distance and direction from woman to queen is the same as the distance from girl to princess.
+Man, king.
+AUTOMATED VOICE: Woman, queen.
+RASKIN: Girl, princess.
+So we're starting to see analogies represented geometrically. You can actually just do arithmetic. You do princess minus girl plus man, and that just equals king.
+SPIEGEL: Pretty cool, right?
+RASKIN: But it's way deeper than that.
+SPIEGEL: Turns out that if you represent language geometrically in this way, you can do all sorts of interesting things - a new kind of math with words.
+RASKIN: If you take smelly minus malodorous - well, malodorous is sort of the pretentious way, you could say, of saying smelly. And so this ends up giving you the pretentiousness factor. So now you can add pretentiousness to book, and that just equals tome. And then add it to clever, and that just equals adroit. So you're really starting to, like, get some rich understanding of what language and the world that we see with language is.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Actually, remember how I told you to visualize a three-dimensional cloud? I only said that to make it easy for you. The reality is that the cloud is 300 dimensions. Can you imagine anything in 300 dimensions? Neither can I.
+Anyway, from 2013 to 2017, this whole visualized language as a geometrical shape made of tiny dots thing was simply amusing, and people like Aza and Britt could use it to do all kinds of parlor tricks.
+RASKIN: How about hipster minus authenticity plus conservative? And the computer spat out electability.
+SPIEGEL: But while people like Britt and Aza were having fun, things progressed. German was turned into a cloud of points. French was turned into a cloud of points; Japanese. And then in 2017, the truly remarkable thing happened. Someone took the Japanese cloud shape and superimposed it on the German cloud shape.
+RASKIN: Someone was able to take one shape and just rotate it on top of the other - just see, like, how similar are the shapes of Japanese and German? And most linguists, AI people - almost everyone thought that languages are so different, that cultures are so different, the way that we see the world is so different that this couldn't possibly work.
+SPIEGEL: But you know what? It did work. Underneath it all, the shapes were the same, which meant that you no longer needed dictionaries. All you needed were clouds of dots to make a translation.
+RASKIN: You get a pretty good word-for-word translation. And the crazy thing is it doesn't work for just Japanese and German but also for English and Esperanto and Turkish and Finnish, which is a really weird language. The AI community has now tried this with over a hundred languages so far. And they all seem to share, if you sort of blur your eyes, a kind of universal human meaning shape.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: I'd like to spend one small minute on the beauty of this idea because there is so much ugliness in the world that when we stumble across something beautiful, I think we should pause to acknowledge it. Underneath all of our massive and important cultural differences, we are so similar that all you have to do is blur your eyes a little to translate from one language to another. We all have people that we love and people that we hate. We all have our own kind of kings and queens and pretty much everything else. To me, that is profound - that underneath everything, there's a kind of giant, universal Rubik's Cube, and if you slot it into place, the coloring might be different, but suddenly, everything is order because people are mostly the same.
+Essentially, what the technology of machine learning does is fix a scale problem. It takes the whole ocean and turns it into a glass of water so that suddenly, we can see the shape of an entire language and how all the languages in the world actually make the same shape.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Which was why, as Aza explained to Britt during their fateful hang out at Britt's house, he was so excited when he heard that NPR story about the researcher focused on the monkey communication.
+RASKIN: Shouldn't we be able to, like, use machine learning to decode what they're saying?
+SPIEGEL: Because he suddenly realized it might be possible to take a bunch of recordings of monkey talk, feed them into a computer and produce a new kind of cloud. Computers could do it with German, Japanese, Swahili. Why not animal communication? And if you did, what would the cloud look like?
+RASKIN: What kind of shape is that? And does it fit anywhere into the universal human meaning shape? And if it does, then you start to be able to piece together a kind of Rosetta Stone.
+SPIEGEL: And if it does, then maybe - just maybe - you could begin to decode animal communication. What is language, after all? Simply a model of the world, our map of the reality we experience. And when you think about it, some of the realities that humans and animals experience are kind of similar. Both have mothers, fathers, siblings, feel pain, fear, sexual interest.
+SELVITELLE: There's an intuition that because we share certain experiences in the world, there are parts of the shapes that might overlap.
+SPIEGEL: Now, there are many, many giant leaps of logic subtly embedded in the idea that you could use these new technologies to decode animal communication - many. And I am going to explore them in detail shortly. But Aza and Britt seem to believe that it's possible, and that even if you don't ultimately succeed in an actual translation, the very act of producing a cloud will give you all kinds of information about animal life and psychology that you did not have before.
+RASKIN: First, you're going to get a sense of scale. Like, is this shape a really small shape? Are there few points? Or is it a really big shape? Does it fit more - does it look more like, say, the kind of shape that baby babble looks like? Or maybe, like, as kids grow, they get bigger and bigger vocabularies, and so you can sort of track, like, how big this shape is. You get a sense of complexity. So even before you start to translate, you actually start to learn a lot about what this shape is.
+SPIEGEL: Which would allow you to determine what Aza and Britt see as a vitally important thing.
+RASKIN: We're turning to a computer to ask the question agnostically. Is this thing - animal vocalizations - is this language?
+SPIEGEL: Do some animals have a language-shaped cloud?
+RASKIN: And if it's language, that says something really deep, political about us and our place in the world.
+SPIEGEL: Because if animals have language, then we will likely see them in a very different way. It's the exact same intuition that Roger had about whales. He used whale song - the actual voice of the animal communicating - to help humans understand whales had a complex culture similar in important ways to our own. That's also what Britt and Aza wanted to do.
+RASKIN: If you look at, like, these movements where there is a sort of a social awakening, they happened when groups that didn't have voice gained voice because that's true for the LGBTQ movement, for women's suffrage, for the civil rights movement.
+(SOUNDBITE OF BLUE DOT SESSIONS' "DONNALEE")
+SPIEGEL: To me, this feels like a bank-shot approach to the problem of climate change. And obviously, not every group that raises its voice is listened to. But there's no denying that Britt and Aza have an impressive track record of influencing behavior on a mass scale. And they maintain that if people can hear animals in a new way, it will serve as a catalyst, like the napalm girl photo during Vietnam - or maybe, come to think of it, like "Songs Of The Humpback Whale."
+(SOUNDBITE OF FRANK WATLINGTON'S "SOLO WHALE")
+SPIEGEL: So this is the completely preposterous idea that the four men you've heard from have gathered around. They've banded together to translate whale communication. How they managed to find each other is a little complicated, but I'll give you the short version.
+David, the microbiologist, finally came to the conclusion that if you don't have eyes, no human will give a damn about you, and grudgingly started giving attention to life forms blessed with that particular facial feature. He started with eels, then moved to sharks and finally sperm whales, which apparently have amazing eyes.
+GRUBER: Ask anybody who's been eye-to-eye with a sperm whale. There is this transformative moment that this animal is looking at them seemingly deeper than they're looking at it - this really deep, sage intelligence behind this eye.
+SPIEGEL: The charismatic megafauna had finally won David, so he started working on sperm whales. In fact, he got a whole batch of recordings of sperm whales. They sound like this.
+(SOUNDBITE OF SPERM WHALES VOCALIZING)
+SPIEGEL: One day, just by chance, he played that sound for a group of machine learning experts who told him to get more recordings because there was this new, truly remarkable thing that machine learning could do. So David reached out to Roger, king of the whale recordings, who it happened had recently heard from these two guys, Aza and Britt, who had a very similar idea and had even created a nonprofit called the Earth Species Project to work on it.
+Eventually, they all got together and declared their mutual love and appreciation and made it official. David, Roger, Aza, Britt and about 15 other men and women, including whale researcher Shane Gero - all of these people have committed themselves. They're going to work together to translate sperm whale communication.
+That is their stated purpose. But underneath, I see a different, even more fundamental ambition. What they're trying to do is find a way around the scale and tempo problem of climate change - make you feel in your soul the incredible horror standing in front of you and every other living being on this planet. That is their preposterous idea. The question is whether it can work.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: NPR's INVISIBILIA will return in a minute.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Whenever you write a story, particularly a story like this one, where what's being proposed is unconventional six different ways from Sunday, there's a lot of background reporting that typically doesn't make it into the final product. You're calling people in the subject area to test plausibility, feel out whether this thing that you're talking about seems completely insane or modestly insane, or maybe these people have some small glimmer of a point. Please, you say, lay out your very best critique as I record this phone call.
+Which brings me to the background reporting that we did for this story.
+UNIDENTIFIED PERSON #2: (Laughter) A lot to unpack there.
+SPIEGEL: (Laughter) Yeah.
+UNIDENTIFIED PERSON #2: So we want to talk to the whales. Grand.
+SPIEGEL: Producer Abby Wendle and I sat down and called all manner of highly respected professionals to ask a series of preposterous questions.
+Do you think that, like, you could maybe take their sounds and translate them?
+FRANS DE WAAL: Yeah.
+JULIA ADENEY THOMAS: That's completely potty. Let me tell you why.
+SPIEGEL: We started with animal experts like primatologist Frans de Waal, many of whom seemed uncertain that, first, animals actually had something that should be characterized as language, and second, if they did, that the things that they had to say would substantially alter our view of them.
+DE WAAL: I want a banana or something like that.
+SPIEGEL: Then there were the researchers who looked at environmental behavior change who we called because we wanted to know if, granting those other two conditions were met - animals have language and say more than pass the banana - would that actually change how people such as yourself behaved towards the environment, given the intense power of the scale and tempo problem? Again, this was met with what I would characterize as a healthy degree of skepticism, including by environmental and intellectual historian Julia Adeney Thomas.
+ADENEY THOMAS: Strikes me as contrary to what we already know about our behavior.
+SPIEGEL: We talked to scientists like geologists Marcia Bjornerud, who said the approach was misguided because changing individual attitudes and behavior, though useful, isn't enough.
+MARCIA BJORNERUD: We need better policy.
+SPIEGEL: To save ourselves, we need an extremely broad overhaul on the systems level.
+BJORNERUD: We need a carbon tax. I mean, that's - to me, that's the first thing and the easiest we could implement.
+SPIEGEL: It's the systems, stupid.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: And let's also talk for a second about this idea they have - when oppressed populations gain voice, it makes a difference. Many of our experts, like Julia Adeney Thomas, pointed out that humans themselves speak language, and that doesn't seem to soften our behavior towards them.
+ADENEY THOMAS: We enslave people we can understand, right? We treat people terribly who speak the same language that we do.
+SPIEGEL: And even if enough whale communication could be gathered to make a cloud - which, by the way, will require someone to invent and then build a fleet of aquatic audio recording robots - what are they going to do with the translated whale language? Are they going to use it to build a social network for whale human interspecies communication - a Witter-verse (ph)? And if so, will President Trump be allowed on it?
+(SOUNDBITE OF ARCHIVED RECORDING)
+TRUMP: I know words. I have the best words.
+(SOUNDBITE OF WHALES VOCALIZING)
+SPIEGEL: Britt, Aza, David and Roger say they have no idea what tangible form this ultimately will take. They say it's too early in the project to guess. But you know what many people told us it was too late for? What they're trying to do. Here's Julia again.
+ADENEY THOMAS: Is this the best use of our few resources?
+(SOUNDBITE OF MUSIC)
+SPIEGEL: We talked to linguists and machine learning experts and people involved in making robots that record sound. And though almost all of them thought that we would learn really important things from the very act of trying to accomplish this task of translating animal communication, like environmental policy analyst Anja Kollmuss, they didn't seem that optimistic that it would work when it came to the ultimate goal.
+ANJA KOLLMUSS: It will do nothing to save us from this horrible future.
+SPIEGEL: But here's the thing - given the intensity of the catastrophe that we face and the short time we have to deal with it, often, over the course of these conversations, a different tone emerged.
+KOLLMUSS: There is something, kind of, that celebrates the human spirit. In that sense, I think it's lovely.
+SPIEGEL: Many of the people we spoke to had been able, through sheer exposure and will, to erase for themselves the scale-tempo problem. Climate change no longer felt like something abstract and far away; it was looming before them, as real as the physical walls of the room they sat in. They had read the 2018 IPCC report which said, there could be an increase of 2.7 degrees Fahrenheit in as little as 11 years. And to them, that was no longer a meaningless number. What that meant in terms of mass migrations and mass death and mass destabilization was very, very emotionally real.
+KOLLMUSS: It's mind-bogglingly sad and terrifying. It really is, you know - it's easy to despair.
+SPIEGEL: So even if this thing that we were talking about seemed like nine different shades of ridiculous, they were still open to it because they feel like we're in the 11th hour, which is the time to throw everything and the kitchen sink at the problem.
+KOLLMUSS: We need everything.
+SPIEGEL: Yeah.
+KOLLMUSS: We need everything.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: So in sum, yes, there's plenty of reasons to feel skeptical about this project. But on the other hand, the desperation that is powering it seems completely and utterly rational. And a deep, real desperation is the thing that is propelling all of the people involved in this project.
+PAYNE: I have, at the moment, not much hope.
+SPIEGEL: Take Roger Payne. Even though he's committed himself to this Hail Mary pass, that's how he sees it - as a Hail Mary pass. He doesn't seem very optimistic.
+Like really, truly not much hope?
+PAYNE: Really, truly not much hope. I don't think we have much of a future. I suspect we may not have any and that we - it may end very quickly. That's my sad, true, deep feeling about what the future of humanity is.
+SPIEGEL: How - what's your time frame?
+PAYNE: One or two generations.
+SPIEGEL: You have grandchildren.
+PAYNE: Yep.
+SPIEGEL: So what does that mean?
+PAYNE: It means I - my heart breaks, really, about the thought of what kind of world their children will have.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Roger is one of the most influential environmentalists of our time, and he privately thinks we have one or two generations left. Honestly, it wasn't the time scale that I'd been thinking when I started this reporting. I hate that time scale. So I started calling around, looking for a second and third opinion. I wanted some level-headed climate scientist to tell me that Roger's prediction was insane. And eventually, I made it to Michael E. Mann from Penn State who, according to word on the street, is a great researcher but very nonapocalyptic. Unfortunately, Michael Mann wasn't as dismissive as I would have liked.
+MICHAEL MANN: What he describes is correct in the eventuality that we fail to act on climate. But it's not correct if we choose to act, and I think there is the danger of a self-fulfilling prophecy. Our future has not yet been determined. And that is one possible future, but it does not have to be our actual future.
+SPIEGEL: Basically, when Roger and Michael Mann look to the future, the real difference between them is their belief about humans. Roger does not believe we will make the kind of radical changes it will take; Michael Mann is more optimistic.
+MANN: In American history, there have been a number of examples where we've sort of risen to a major challenge - the Apollo Project, you know, World War II mobilization. I think we are potentially sort of going through a tipping point right now.
+SPIEGEL: It's comforting to know that we can change and that what we do does matter. Still, Roger's view haunted me throughout my reporting. And I got to say, I didn't get the sense that the others in the group - David, Britt, Aza - had a radically different take. Like, there was this moment between interviews when I was making small talk with Aza. Because I am an inappropriately nosy person, I was asking about his love life and whether he wanted to have kids. And the saddest look came into his eyes. He did want kids; it's just he couldn't see how he could do it given what he saw coming. So at the moment, it was an open question.
+RASKIN: I think we are headed into an era of cascading climate collapse and cascading climate chaos. And the hardest to predict feedback loop is going to kick in, which is human behavior, and so we're going to see societal collapse. And that doesn't necessarily mean the end of the human race, but things are going to get really hard. We're going to have exponential suck.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: And then there's David Gruber.
+GRUBER: Ah, the smell of home (laughter).
+SPIEGEL: On my last day of reporting, I asked David to take me to the Passaic River so that we could sit on the bank of the Superfund site where he swam as a kid. Though the bank was green and lush, once you looked in the water, things got more grim. It didn't look like there was anything moving.
+There has to be life, though, doesn't there?
+GRUBER: There is. I mean, there - we will find it. It's just about going deep enough.
+SPIEGEL: David, like the others, saw a terrifying darkness on the horizon. That's why, like the others, he'd committed himself to this strange Hail Mary. He sees that climate change is already devastating communities all over the world and is beginning to move so quickly that even our own naked human eyes can see it.
+And the thing he wants to do about climate change, I realize later, has a lot to do with time and scale. He says he thinks it'll be hard to avoid the kind of cascading climate collapse Aza talked about. So the thing he's working to influence is the tempo of the demise. That's why in addition to doing this project, over the last five years, David has been changing his life and habits.
+GRUBER: I've gotten rid of almost all my stuff. I live very minimalistically. I've stopped eating meat and fish. I try really not to fly as much as I possibly can. I try to take all my conferences on video conferences when I can.
+SPIEGEL: Now, there's not one answer to climate change. So many things have to be done so quickly; so many systems need to be reformed. Still, David believes that if each of us made the personal choice to behave differently, started publicly demanding aggressive climate policies and programs despite the real financial consequences of pivoting away from fossil fuels, but also if all of us chose to live even a little bit smaller and a little bit slower - reduced car and plane use stopped eating as much meat - David and many others say those kinds of choices would add up until there was more time on our collective clock. We slow down; the crisis slows down.
+GRUBER: If we all just look at ourselves and be like, is there little things that I can do? What is - what can I give? And it may not - it may be very little, and that's fine.
+SPIEGEL: It's at least a beginning. And maybe the process of slowing down will help us see more clearly all the things that we need to do, all the ways we need to act. So let's practice right now - slowing down. Let's try to use a tempo that's more like the tempo you hear when you listen to the heartbeat of a whale. It's a hard thing to slow your tempo. A slower tempo feels strange and uncomfortable and sometimes even morally wrong. So much of the world is encouraging us to push faster, harder, farther. But here for a moment, let's try. Let's start with the heartbeat of a whale.
+(SOUNDBITE OF HEART BEATING)
+SPIEGEL: Like so much else about whales, its heartbeat feels the same but different from humans - slower, more grand.
+(SOUNDBITE OF HEART BEATING)
+SPIEGEL: I find this slowness beautiful. But also, slowness makes it hard to understand whales, even when they're directly in front of you. Take whale play - to the human eye, whale play does not in any way look like play. Play in the human mind is fast, a series of quick, light movements - baby foxes dancing on their mother's back, 5-year-olds streaking through a playground. To watch whales play is to see two animals calmly moving through a watery, blue space, almost immobile. It's only when you speed up the videotape that you can see - oh, they're playing; the baby whale is mimicking its mother.
+(SOUNDBITE OF WHALES VOCALIZING)
+SPIEGEL: Whales have massive communication networks - geographically, the largest besides humans. Researchers say blue whales pass their songs through deep water channels, information travelling across a great stretch of the planet, like an aquatic Internet.
+(SOUNDBITE OF WHALES VOCALIZING)
+SPIEGEL: What else could I tell you about whales? That their children babble like human children do, make noise at random until slowly their noise takes on the same structure as the adults in their population? Or that some researchers think that siren song, the idea of beautiful women who learned sailors to their death with strange music, that that myth stems from whales? Because during the time the Greeks, boats were made of wood, so if one happened to intersect with a whale song passing from one side of the ocean to another, the whole hull would vibrate with the noise, amplifying it like a kind of speaker.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Imagine sitting in the belly of a boat that's vibrating with the yawn of such a strange sound. Of course you would misinterpret it. Who would imagine that whales could sing?
+(SOUNDBITE OF WHALES VOCALIZING)
+SPIEGEL: Humans are constantly misinterpreting whales just as we fail to make sense of so many other things - because they're too slow or too fast or too big or too small or too strange. But maybe if we concentrate hard, we can shift, change what we think and what we do so the tempo of our own demise will slow down.
+(SOUNDBITE OF MUSIC)
+ROSIN: That's Alix Spiegel.
+In the spirit of shifting tempos, we have a favor to ask. We want you to take a minute and listen to the sounds around you and send us an audio recording. It could be anywhere, preferably a place that makes you happy - a beach, a city street, your backyard, wherever really. Take a recording - iPhone is fine - and send the MP3 with your name, the name of the place you recorded, to invisibiliamail@npr.org. That's invisibiliamail@npr.org. We're collecting the recording for a project, and maybe you'll hear yours in an upcoming episode. Now stay tuned for a preview of next week's INVISIBILIA.
+(SOUNDBITE OF MUSIC)
+ROSIN: Next week on NPR's INVISIBILIA, we follow a summer program for teenagers where they're taught the opposite of what they learned in kindergarten - if you don't have anything nice to say, you should probably say it into the microphone so everyone can hear you...
+UNIDENTIFIED PERSON #3: Stop taking positions just 'cause you're white. Stop taking positions just 'cause of the school that you go to
+ROSIN: ...And where the counselors are not necessarily going to jump in and rescue you.
+UNIDENTIFIED PERSON #4: Have you ever thought, like, oh, God, I've gone too far, I was a little bit too offensive, I, like, hurt this person's feelings too much?
+UNIDENTIFIED PERSON #5: Every day - every single day.
+ROSIN: What you get and what you lose from directly confronting someone on the next INVISIBILIA.
+(SOUNDBITE OF MUSIC)
+ROSIN: Invisibility is hosted by me, Hanna Rosin.
+SPIEGEL: And me, Alix Spiegel. Our senior supervising editor is Deborah George. This episode was edited by Anne Gudenkauf.
+(SOUNDBITE OF WHALES VOCALIZING)
+SPIEGEL: INVISIBILIA is produced by Kia Miakka Natisse, Yowei Shaw and Abby Wendle. Our manager is Liana Simstrom.
+ROSIN: We had help on this episode from Cara Tallo, Alec Stutson, Oliver Whang and David Guthertz. Fact-checking by Sarah Knight and Jamison Pfeifer. Our technical director is Andy Huether, and our senior vice president of programming is Anya Grundmann.
+SPIEGEL: Special thanks to...
+ROSIN: Jorge Reynolds for sharing his recordings of whale heartbeats with us.
+SPIEGEL: And...
+ROSIN: Marcia Bjornerud, Charlie Garcia, Shane Gero, Kevin Healy, Rebecca Hersher, J.C. Howard, Chris Joyce, John Keefe, Anja Kollmuss, Egina Manachova, Mark Memmott, Lauren Migaki, Lulu Miller, Micah Ratner, David Shulman, Devan Spear, Julia Adeney Thomas, Liza Yeager and Haider Zaman.
+SPIEGEL: Music for this episode provided by Blue Dot Sessions. To see original artwork for this episode and online resources about how to engage with climate change, visit npr.org/invisibilia.
+And now for a moment of non-Zen.
+(Laughter, howling) Like that.
+(SOUNDBITE OF MUSIC)
+SPIEGEL: Tune in next week for more...
+(SOUNDBITE OF WHALES VOCALIZING)
+ROSIN: Hey, guys. It's Hanna. What if I told you that there was a way to get a little more INVISIBILIA each week and that you could get it delivered right to your inbox? What? Every week, during the run of our season, we send out a newsletter that is packed with exciting bonuses like original episode illustrations - which are so nice - photo essays, Web stories and even the occasional animated video. Just go to npr.org/invisibilianewsletter to subscribe.
+Copyright © 2020 NPR.  All rights reserved.  Visit our website terms of use and permissions pages at www.npr.org for further information.
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
+NPR thanks our sponsors
+Become an NPR sponsor

@@ -1,0 +1,189 @@
+
+
+** Why clouds are key to new climate change projections | PBS ... **
+
+* https://www.pbs.org/newshour/science/why-clouds-are-key-to-new-climate-change-projections *
+
+Subscribe to Here’s the Deal, our politics newsletter for analysis you won’t find anywhere else.
+Thank you. Please check your inbox to confirm.
+Coronavirus Coverage
+
+
+
+Watch live
+
+
+
+
+
+Essential FAQ
+
+
+
+
+
+U.S. coronavirus map
+
+
+
+
+
+Listen: Special podcast episode
+
+
+This antibody test could offer a clearer picture of how the body responds to COVID-19
+
+
+Fred Pearce, Yale Environment 360
+
+
+                    Fred Pearce, Yale Environment 360
+                
+
+It is the most worrying development in the science of climate change for a long time. An apparently settled conclusion about how sensitive the climate is to adding more greenhouse gases has been thrown into doubt by a series of new studies from the world’s top climate modeling groups.
+The studies have changed how the models treat clouds, following new field research. They suggest that the ability of clouds to keep us cool could be drastically reduced as the world warms — pushing global heating into overdrive.
+Clouds have long been the biggest uncertainty in climate calculations. They can both shade the Earth and trap heat. Which effect dominates depends on how reflective they are, how high they are, and whether it is day or night. Things are made more complicated because cloud dynamics are complex and happen on small scales that are hard to include in the models used to predict future climate. 
+Recent concern about how accurately the models handle clouds has focused on the blankets of low clouds that any international flyer will have seen extending for hundreds of miles below them across the oceans. Marine stratus and stratocumulus clouds predominantly cool the Earth. They shade roughly a fifth of the oceans, reflecting 30 to 60 percent of the solar radiation that hits them back into space. In this way, they are reckoned to cut the amount of energy reaching the Earth’s surface by between 4 and 7 percent.
+But it seems increasingly likely that they could become thinner or burn off entirely in a warmer world, leaving more clear skies through which the sun may add a degree Celsius or more to global warming. As Mark Zelinka of the Lawrence Livermore National Laboratory, lead author of a review of the new models published last month, has put it: The models “are shedding their protective sunscreen in dramatic fashion.”
+The new predictions overturn a consensus about the planet’s climate sensitivity that has persisted for the entire 32-year history of the UN’s Intergovernmental Panel on Climate Change. All five of the IPCC’s scientific assessments have agreed that doubling carbon dioxide, the most critical planet-warming greenhouse gas, from pre-industrial levels will eventually warm us by about 3 degrees C (5.4 degrees F), with an error bar extending from a low of 1.5 degrees C (2.7 degrees F) to a high of 4.5 degrees C (8 degrees F). This is known in the jargon as the equilibrium climate sensitivity.
+That consensus was reaffirmed in 2018 when a widely cited review, headed by Peter Cox of the University of Exeter, found that the chance of climate sensitivity exceeding 4.5 degrees was “less than 1 percent.”
+But the consensus has now been blown apart. Most leading climate models — including those from the U.S. National Center for Atmospheric Research (NCAR) and Britain’s Hadley Center — are now calculating the climate’s sensitivity to doubling CO2 levels as a degree or more higher, ranging up to 5.6 degrees C (10 degrees F). Their findings are almost certain to feature strongly in the next IPCC assessment of the physical science of climate change, due to be signed off in April next year.
+In the meantime, the new findings should make disturbing reading for climate negotiators preparing a new deal on reducing greenhouse-gas emissions to be agreed in Glasgow, Scotland, this November. That’s because the revised estimates make the prospect of keeping global warming below 2 degrees C — let alone the aspiration of 1.5 degrees C agreed in the Paris climate accord five years ago — even more unlikely.
+The debate about the role of clouds in climate change is part of a larger concern about feedbacks in warming the world. It has long been clear that the “greenhouse effect” of doubling CO2 in the atmosphere will directly raise global temperatures by about 1 degree C. The physics of that is undisputed. But that is only the beginning. Things get more complicated — and concerning — because of amplifying feedbacks caused by how natural systems respond to this initial warming. None are easy to assess accurately.
+One feedback is the melting of the ice and snow that covers large areas of the planet. This replaces light-reflective surfaces with darker land and ocean that absorb solar energy and then radiate it, heating the air. It remains far from clear how fast sea ice, in particular in the Arctic Ocean, will disappear. The trend, however, has been alarming, with Arctic sea ice extent shrinking by about 10 percent per decade over the last 40 years.
+A second is the additional water vapor likely in a future atmosphere as higher temperatures cause more evaporation from land and ocean. Water vapor is an important greenhouse gas in its own right. Climate models estimate that the extra water vapor will at least double the direct greenhouse effect.
+The third feedback, and the most uncertain, is clouds. A lot of the water vapor in the air forms water droplets that coalesce into clouds. We generally think of clouds as keeping us cool, and more water vapor should make more clouds. That may sound helpful. But things are not so simple.
+While during the day, low clouds shade the planet, at night they act as an insulating blanket. Meanwhile high cirrus clouds predominantly act as heat traps, warming the air below them. Generally, at a global level, models have suggested that the warming and cooling effects cancel each other out, and the presumption has been that that will continue as the world warms. But the new model analyses suggest otherwise.
+At a meeting in Barcelona last March, climate modelers first began to realize that most of the world’s leading climate models were rejecting the old IPCC consensus. The data is now increasingly becoming public. First, in July, Andrew Gettelman at NCAR reported that the center’s revised modeling came up with a climate sensitivity — the temperature increase based on a projected doubling of CO2 levels — of 5.3 degrees C (9.5 degrees F), a 32 percent increase over its previous estimate of 4 degrees C.
+Others soon followed. Last month, American and British researchers, led by Zelinka, reported that 10 of 27 models they had surveyed now reckoned warming from doubling CO2 could exceed 4.5 degrees C, with some showing results up to 5.6 degrees. The average warming projected by the suite of models was 3.9 degrees C (7 degrees F), a 30-percent increase on the old IPCC consensus.
+French scientists at the National Center for Scientific Research concluded that the new models predicted that rapid economic growth driven by fossil fuels would deliver temperature rises averaging 6 to 7 degrees C (10.8 to 12.6 degrees F) by the end of the century. They warned that keeping warming below 2 degrees C was all but impossible.
+Zelinka said the new estimates of higher climate sensitivity were primarily due to changes made to how the models handled cloud dynamics. The models found that in a warmer world clouds would contain less water than previously thought. Clouds would thin out, and many would not form at all, resulting in “stronger positive cloud feedbacks” and extra warming.
+This tweaking of the models followed recent field research over the Southern Ocean, which is currently one of the cloudiest regions on Earth. Flying through those clouds, researchers found they contain much more water and less ice than previously assumed. They were “optically thicker and hence more reflective of sunlight,” says NASA’s Ivy Tan.
+That sounds like good news. But it means that past models have overestimated how much ice in these clouds will turn to liquid water in a warmer world — and so overestimated both the thickness of future clouds and their ability to keep us cool. Eliminating that bias, says Tan, could increase climate sensitivity by as much as 1.3 degrees C.
+Modelers have also changed how they characterize the effect of anthropogenic aerosols from burning fuel, particularly in clouds. In general, the aerosols make clouds thicker and better able to shade the planet. The recent recalculation follows new estimates of aerosol emissions during the mid-20th century, a time when booming emissions from rapid industrialization caused the planet to cool for several decades, masking the warming effect of accumulating CO2.
+Researchers have concluded from the new data that both the cooling effect of aerosols and the warming effect of CO2 have been greater than previously supposed, causing them to revise upward their estimates of the climate’s sensitivity to CO2. With CO2 continuing to accumulate and stricter controls on smog, the masking effect of particulate aerosols is bound to diminish in the future. So the increased climate sensitivity to CO2 is set to dominate, giving an extra kick to warming.
+Real-world data from satellites suggests that the modelers’ predictions may already be coming true. Norman Loeb of NASA’s Langley Research Center has shown that a sharp rise in global average temperatures since 2013 has coincided with a decline in cloud cover over the oceans. He argues that the clearer skies may have resulted from stricter pollution controls in China and North America.
+Other researchers have reported fewer low-level clouds in the tropics during warmer years. In his 2016 study, climate scientist Tapio Schneider, then at ETH Zurich, noted that climate models that incorporated this link in their calculations predicted faster global warming.
+Schneider, now at Caltech, made waves last February by arguing that global cloud cover may have a tipping point, beyond which clouds would “become unstable and break up,” sending warming into an upward spiral. He used a model with a fine-scale resolution that, he said, represented the real dynamics of clouds much better than the models used to calculate climate change.
+The tipping point would not be reached until CO2 levels were at around 1200 ppm, more than four times pre-industrial levels, and three times current levels. But once it was passed, he projected that temperatures would soar by an additional 8 degrees C (14.4 degrees F) as a result of the lost clouds. He suggested that such a tipping point “may have contributed importantly to abrupt climate changes in the geological past.”
+This is not the first time that such scary climate predictions have emerged from modeling analysis of how clouds might change in a warmer world. Fifteen years ago, I attended a workshop of climate modelers where James Murphy of Britain’s Hadley Centre discussed how he had tweaked his center’s standard climate model to reflect more fully the uncertainty about cloud cover, cloud duration, and thickness. The resulting graph showed the most likely warming still at 3 degrees C or so, but with a “long tail” at the top end. There was a possibility — he put it no higher — that warming could go as high as 10 degrees C (18 degrees F) for doubling CO2.
+David Stainforth of Oxford University had done the same thing on another model and saw a “long tail” extending to 12 degrees C. They both later published their findings in Nature, but the findings were subsequently rather sidelined by modelers. They did not make it into summaries of IPCC climate science assessments. But the new, hotter projections emerging from the latest mainstream model runs suggest that Murphy and Stainforth were onto something.
+ This article is reproduced with permission from Yale Environment 360. It was first published on February 5, 2020. Find the original story here.
+
+Left:
+                Clouds fill the sky at Marina Bay in Singapore December 20, 2019. Woo Yiming/Reuters
+    
+By Gillian Flaccus, Associated Press
+By Ed Struzik, Yale Environment 360
+By Sonia Shah, Yale Environment 360
+
+
+Fred Pearce, Yale Environment 360
+
+
+                    Fred Pearce, Yale Environment 360
+                
+
+Fred Pearce is a freelance author and journalist based in the U.K. He is a contributing writer for Yale Environment 360 and is the author of numerous books, including The Land Grabbers, Earth Then and Now: Amazing Images of Our Changing World, and The Climate Files: The Battle for the Truth About Global Warming. 
+
+Support Provided By:
+Learn more
+
+Subscribe to Here’s the Deal, our politics newsletter for analysis you won’t find anywhere else.
+Thank you. Please check your inbox to confirm.
+Additional Support Provided By:
+
+Read
+Apr 15
+Famous paintings come to life in these quarantine works of art
+
+
+Read
+Apr 16
+WATCH: White House offers governors a road map for pandemic recovery
+
+
+Watch
+Apr 16
+Can pandemic restrictions be lifted, as U.S. COVID-19 deaths continue to rise?
+
+
+Watch
+Apr 16
+Debate resurfaces over origins of novel coronavirus
+
+
+Read
+Apr 16
+‘The Plague’ perfectly captures the risk in returning to normal
+
+
+
+Arts
+Apr 16
+
+By Lindsey Bahr, Associated Press
+
+Nation
+Apr 16
+
+By Arnie Stapleton, Associated Press
+
+Nation
+Apr 16
+
+By Ellen Knickmeyer, Associated Press
+
+World
+Apr 16
+
+By Associated Press
+
+Nation
+Apr 16
+
+By Yamiche Alcindor and Associated Press
+
+Nation
+Apr 16
+
+By Kathryn McKinley, The Conversation
+
+
+Arts
+Apr 16
+
+By Mark Kennedy, Associated Press
+
+Health
+Apr 16
+
+By Laura Santhanam
+
+Nation
+Apr 16
+
+By Associated Press
+
+World
+Apr 16
+
+By Mariam Fam, Associated Press
+
+Nation
+Apr 16
+
+By David Eggert, Associated Press
+
+Health
+Apr 16
+
+By Dr. Howard Markel
+© 1996 - 2020 NewsHour Productions LLC. All Rights Reserved.
+Sections
+About
+Stay Connected
+Subscribe to ‘Here's the Deal,’ our politics newsletter
+Thank you. Please check your inbox to confirm.
+Learn more about Friends of the NewsHour.
+Support for NewsHour Provided By
